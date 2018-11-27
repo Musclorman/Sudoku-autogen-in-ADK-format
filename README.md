@@ -9,14 +9,14 @@ Exemple:
 
 Texte en francais en bas de la page.
 
-
+#Text in english - Texte en anglais
 Automatic translation via http://translate.google.fr
 This pack contains sudoku grids in ADK format. Each file contains 1000 sudoku (1 per line).
 If you do not have the possibility to create your own grids but your application or device manages this format by copy / paste or by importing text file you can take advantage of grids already automatically generated here.
 Good game!
 
 
-Text in french
+#Text in french - Texte en français
 Ce pack contiend des grilles de sudoku au format ADK. Chaques fichiers contiends 1000 sudoku (1 par ligne).
 Si vous n'avez pas la possibilité de creer vos grilles vous-même mais que votre application ou appareil gère ce format par copier / coller ou par importation de fichier texte vous pouvez profiter de grilles déjà automatiquement générés ici.
 Bon jeu!
